@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 <h1 align="center">Hey, I'm Akash Narayanan C 👋</h1>
 
 <h3 align="center">
