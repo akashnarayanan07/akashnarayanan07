@@ -71,14 +71,7 @@
 - 🌍 Participant – Meta Global AI Developer Hackathon.
 - 🚀 Participant – Samsung Solve for Tomorrow.
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashnarayanan07&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashnarayanan07&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
 
 <p align="center">
   <i>Learning. Building. Experimenting. Improving.</i>
